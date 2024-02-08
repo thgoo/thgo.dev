@@ -17,7 +17,7 @@ const IndexPage = () => (
           />
         </div>
         <div className="flex flex-col justify-center px-10 pt-12 md:px-16">
-          <p className="text-center text-2xl font-semibold md:text-4xl md:leading-snug lg:text-5xl lg:leading-tight 2xl:text-7xl">
+          <p className="text-center text-2xl font-semibold md:text-4xl md:leading-snug lg:text-left lg:text-5xl lg:leading-tight 2xl:text-7xl">
             Hi, I'm Thiago Pavan. <br />A Software Engineer <br />
             <span className="dark:text-pink-600">based in Brazil.</span>
           </p>
